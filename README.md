@@ -1,6 +1,6 @@
 ## Picolator
 
-### Description
+#### Description
 A portable console for Pico 8.  
 
 ![(Picolator Complete](photos/picolator_complete.jpg?raw=true "Picolator")
