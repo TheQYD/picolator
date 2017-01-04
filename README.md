@@ -25,7 +25,7 @@ Anyone with experience in milling and circuit design should be able to make it f
 
 
 ## Media
-A video it it in action can be found here(https://youtu.be/5mOcTelc-4U).
+A video it it in action can be found [here](https://youtu.be/5mOcTelc-4U).
 
 The front.
 
