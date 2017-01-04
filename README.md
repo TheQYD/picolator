@@ -43,8 +43,7 @@ Here are it's insides. I was breadboarding it.
 
 ![Breadboarding](photos/breadboarding_console.jpg?raw=true "Picolator")
 
-This is the soundboard. It uses an LM386. I designed the circuit, but the Pi Zero audio output instructions can be found [here](
-https://learn.adafruit.com/introducing-the-raspberry-pi-zero/audio-outputs).
+This is the soundboard. It uses an LM386. I designed this circuit for the console, but the Pi Zero audio output instructions can be found [here](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/audio-outputs). It's based on that.
 
 ![Soundboard](photos/soundboard_closeup.jpg?raw=true "Picolator")
 
