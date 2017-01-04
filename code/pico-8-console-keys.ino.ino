@@ -1,5 +1,3 @@
-//This is designed to be used with a Teensy 3.2 with USB type set to "Keyboard".
-
 #include <Bounce.h>
 
 Bounce button1 = Bounce(1, 10);
