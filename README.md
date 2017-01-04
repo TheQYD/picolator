@@ -55,9 +55,9 @@ This is the controller. It connects to the Teensy and the Teensy is then connect
 
 ![There is nothing here.](photos/controller_bare.jpg?raw=true "Picolator")
 
-This is a screenshot of the controller circuit. It's also in the CADs file.
+This is a screenshot of the controller circuit. It's also in the CADs folder.
 
 ![This statement has no meaning. ](photos/controller_circuit.png?raw=true "Picolator")
 
 ## License
-Picolator is available under the MIT license. See the LICENSE file for more info.
+Picolator is available under the MIT license. See the LICENSE file for more info. Make it better!
