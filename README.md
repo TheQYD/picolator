@@ -45,12 +45,12 @@ I use it all the time.
 
 Here are it's insides. I was breadboarding it.
 
-![Breadboarding](photos/picolator_breadboard.jpg?raw=true "Picolator")
+![Breadboarding](photos/breadboarding_console.jpg?raw=true "Picolator")
 
 This is the soundboard. It uses an LM386. It's based on the work done here(
 https://learn.adafruit.com/introducing-the-raspberry-pi-zero/audio-outputs).
 
-![Soundboard](photos/soundboard_closeup.png?raw=true "Picolator")
+![Soundboard](photos/soundboard_closeup.jpg?raw=true "Picolator")
 
 The schematic for the soundboard is in the CADs folder, but here's an image of it.
 
@@ -58,7 +58,7 @@ The schematic for the soundboard is in the CADs folder, but here's an image of i
 
 This is the controller. It connects to the Teensy and the Teensy is then connected via USB to the Pi Zero.
 
-![https://www.youtube.com/watch?v=dQw4w9WgXcQ](photos/controller_bare.png?raw=true "Picolator")
+![https://www.youtube.com/watch?v=dQw4w9WgXcQ](photos/controller_bare.jpg?raw=true "Picolator")
 
 This is a screenshot of the controller circuit. It's also in the CADs file.
 
