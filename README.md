@@ -11,16 +11,16 @@ The shell is 4 layers. Three HDPE layers, a double-sided copper clad FR1 circuit
 Anyone with experience milling and circuit design should be able to make it from just the files. But, I'll put together an Instructable soon.
 
 ## Parts
-1 Raspberry Zero
-1 Teensy 3.2
-1 Adafruit 3.5” PiTFT
-1 LM386 Audio Amplifier
-1 Adafruit PowerBoost 500c
-1 3.7v 2500mAh LiPo battery
-1 2.5mm headphone jack
-1 sheet of 4” x 3” x .375” polycarbonate
-2 Sheets of 4” x 3” x .375” HDPE
-Misc: resistors, capacitors, switch, etc.Body Materials 1 sheet of 4” x 3” copper clad FR1.
+-1 Raspberry Zero
+-1 Teensy 3.2
+-1 Adafruit 3.5” PiTFT
+-1 LM386 Audio Amplifier
+-1 Adafruit PowerBoost 500c
+-1 3.7v 2500mAh LiPo battery
+-1 2.5mm headphone jack
+-1 sheet of 4” x 3” x .375” polycarbonate
+-2 Sheets of 4” x 3” x .375” HDPE
+-Misc: resistors, capacitors, switch, etc.Body Materials 1 sheet of 4” x 3” copper clad FR1.
 
 
 More Media
