@@ -1,5 +1,5 @@
 ## Picolator
-A portable console for the **Pico 8 "fantasy console"**.  
+A portable console for [Pico 8] (http://www.lexaloffle.com/pico-8.php).   
 
 ![(Picolator Complete](photos/picolator_complete.jpg?raw=true "Picolator")
 
