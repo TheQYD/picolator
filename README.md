@@ -4,7 +4,7 @@ A portable console for the **Pico 8 "fantasy console"**.
 ![(Picolator Complete](photos/picolator_complete.jpg?raw=true "Picolator")
 
 ## Details
-Picolator is a portable console developed using the Raspberry Pi Zero, covered in a case made using the Othermill. 
+Picolator is a portable console developed using the Raspberry Pi Zero, covered in a case made using an Othermill (https://othermachine.co). 
 
 The shell is 4 layers. Three HDPE layers, a double-sided copper clad FR1 circuit, and a polycarbonate top layer (to protect the screen). The body was designed in Fusion 360, and the electronics were designed in EagleCAD. All of them were milled using the Othermill. I had to use a Dremel to remove the headers on the PiTFT (risky, but it needed to be thinner).
 
