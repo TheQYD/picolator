@@ -1,10 +1,12 @@
 ## Picolator
+
+### Description
 A portable console for Pico 8.  
 
 ![(Picolator Complete](photos/picolator_complete.jpg?raw=true "Picolator")
 
 
-## Description
+## Details
 The shell is 4 layers. Three HDPE layers, a double-sided copper clad FR1 circuit, and a polycarbonate top layer (to protect the screen). The body was designed in Fusion 360, and the electronics were designed in EagleCAD. All of them were milled using the Othermill. I had to use a Dremel to remove the headers on the PiTFT (risky, but it needed to be thinner).
 
 Anyone with experience in milling and circuit design should be able to make it from just the files. I'll put together an Instructable soon.
