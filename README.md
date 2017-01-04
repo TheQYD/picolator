@@ -12,7 +12,7 @@ The shell is 4 layers. Three HDPE layers, a double-sided copper clad FR1 circuit
 
 Anyone with experience in milling and circuit design should be able to make it from just the files. I'll put together an Instructable soon.
 
-![(Picolator Complete](photos/picolator_front.jpg?raw=true "Picolator")
+
 
 ## Parts
 - 1 [Raspberry Zero] (https://www.adafruit.com/product/2885)
@@ -22,13 +22,47 @@ Anyone with experience in milling and circuit design should be able to make it f
 - 1 [Adafruit PowerBoost 500c] (https://www.adafruit.com/product/1944)
 - 1 [3.7v 2500mAh LiPo battery] (https://www.adafruit.com/products/328)
 - 1 [2.5mm headphone jack] (https://www.amazon.com/uxcell-Plastic-Stereo-Socket-Connector/dp/B00GLQAF7A/ref=pd_sim_23_4/151-6327110-2786334?_encoding=UTF8&pd_rd_i=B00GLQAF7A&pd_rd_r=0DZXJB3YZX57Q64PYSKV&pd_rd_w=IB4NA&pd_rd_wg=bLT86&psc=1&refRID=0DZXJB3YZX57Q64PYSKV)
-- 1 [sheet of 4” x 3” x .375”] polycarbonate (https://othermachine.co/store/materials/polycarbonate/)
+- 1 [sheet of 4” x 3” x .375” polycarbonate] (https://othermachine.co/store/materials/polycarbonate/)
 - 2 [sheets of 4” x 3” x .375” HDPE] (https://othermachine.co/store/materials/hdpe/)
 - Misc: resistors, capacitors, switch, etc.Body Materials 1 sheet of 4” x 3” copper clad FR1.
+- [Pico 8] (http://www.lexaloffle.com/pico-8.php)
 
 
 ## Media
 A video it it in action can be found here: https://youtu.be/5mOcTelc-4U
+
+The front.
+
+![Front](photos/picolator_front.jpg?raw=true "Picolator")
+
+The back.
+
+![Back](photos/picolator_back.jpg?raw=true "Picolator")
+
+I use it all the time.
+
+![PLaying](photos/picolator_rainmaker.jpg?raw=true "Picolator")
+
+Here are it's insides. I was breadboarding it.
+
+![Breadboarding](photos/picolator_breadboard.jpg?raw=true "Picolator")
+
+This is the soundboard. It uses an LM386. It's based on the work done here(
+https://learn.adafruit.com/introducing-the-raspberry-pi-zero/audio-outputs).
+
+![Soundboard](photos/soundboard_closeup.png?raw=true "Picolator")
+
+The schematic for the soundboard is in the CADs folder, but here's an image of it.
+
+![You actually read these?](photos/console_sound_board.png?raw=true "Picolator")
+
+This is the controller. It connects to the Teensy and the Teensy is then connected via USB to the Pi Zero.
+
+![https://www.youtube.com/watch?v=dQw4w9WgXcQ](photos/controller_bare.png?raw=true "Picolator")
+
+This is a screenshot of the controller circuit. It's also in the CADs file.
+
+![There is nothing here.](photos/controller_circuit.png?raw=true "Picolator")
 
 ## License
 Picolator is available under the MIT license. See the LICENSE file for more info.
