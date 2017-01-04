@@ -20,7 +20,7 @@ Anyone with experience in milling and circuit design should be able to make it f
 - 1 3.7v 2500mAh LiPo battery (https://www.adafruit.com/products/328)
 - 1 2.5mm headphone jack (https://www.amazon.com/uxcell-Plastic-Stereo-Socket-Connector/dp/B00GLQAF7A/ref=pd_sim_23_4/151-6327110-2786334?_encoding=UTF8&pd_rd_i=B00GLQAF7A&pd_rd_r=0DZXJB3YZX57Q64PYSKV&pd_rd_w=IB4NA&pd_rd_wg=bLT86&psc=1&refRID=0DZXJB3YZX57Q64PYSKV)
 - 1 sheet of 4” x 3” x .375” polycarbonate (https://othermachine.co/store/materials/polycarbonate/)
-- 2 Sheets of 4” x 3” x .375” HDPE (https://othermachine.co/store/materials/hdpe/)
+- 2 sheets of 4” x 3” x .375” HDPE (https://othermachine.co/store/materials/hdpe/)
 - Misc: resistors, capacitors, switch, etc.Body Materials 1 sheet of 4” x 3” copper clad FR1.
 
 
