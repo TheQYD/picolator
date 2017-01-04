@@ -1,7 +1,7 @@
 ## Picolator
 A portable console for Pico 8.  
 
-![](photos/picolator_complete.jpg?raw=true "Picolator")
+![(Picolator Complete](photos/picolator_complete.jpg?raw=true "Picolator")
 
 
 ## Description
