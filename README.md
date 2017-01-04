@@ -1,7 +1,7 @@
 ## Picolator
 
 #### Description
-A portable console for the Pico 8 "fantasy console".  
+A portable console for the *Pico 8 "fantasy console"*.  
 
 ![(Picolator Complete](photos/picolator_complete.jpg?raw=true "Picolator")
 
