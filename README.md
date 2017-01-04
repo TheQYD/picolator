@@ -25,7 +25,7 @@ Anyone with experience in milling and circuit design should be able to make it f
 
 
 ## Media
-A video it it in action can be found here: https://youtu.be/5mOcTelc-4U
+A video it it in action can be found here(https://youtu.be/5mOcTelc-4U).
 
 The front.
 
@@ -54,11 +54,11 @@ The schematic for the soundboard is in the CADs folder, but here's an image of i
 
 This is the controller. It connects to the Teensy and the Teensy is then connected via USB to the Pi Zero.
 
-![https://www.youtube.com/watch?v=dQw4w9WgXcQ](photos/controller_bare.jpg?raw=true "Picolator")
+![There is nothing here.](photos/controller_bare.jpg?raw=true "Picolator")
 
 This is a screenshot of the controller circuit. It's also in the CADs file.
 
-![There is nothing here.](photos/controller_circuit.png?raw=true "Picolator")
+![This statement has no meaning. ](photos/controller_circuit.png?raw=true "Picolator")
 
 ## License
 Picolator is available under the MIT license. See the LICENSE file for more info.
