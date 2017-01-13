@@ -57,13 +57,13 @@ This is a screenshot of the controller circuit. It's also in the CADs folder.
 ![This statement has no meaning. ](photos/controller_circuit.png?raw=true "Picolator")
 
 ## Notes
-The shell is 4 layers. Three HDPE layers, a double-sided copper clad FR1 circuit, and a polycarbonate top layer (to protect the screen). The body was designed in Fusion 360, and the electronics were designed in EagleCAD. All of them were milled using the Othermill. I had to use a Dremel to remove the headers on the PiTFT (risky, but it needed to be thinner). 
+The shell is 4 layers. Three HDPE layers and a polycarbonate top layer (to protect the screen). The body was designed in Fusion 360, and the electronics were designed in EagleCAD. All of them were milled using the Othermill. I had to use a Dremel to remove the headers on the PiTFT (risky, but it needed to be thinner). It's not hollow, there are supports and channels to route the wires and mount equipment on the inside (see the CADs).
 
-I found the PiTFT schematic and tested the pins used for video (SPI). The wires are 28 gauge stranded core. If you look through Google Images for any of those things you'd need, you'll find them. Lady Ada makes the schematics for the PiTFT available on her site. The mappings I found in Google images, and tested using an oscilliscope.
+When I started, I found the PiTFT schematic and tested the pins used for video (SPI). The wires are 28 gauge stranded core. If you look through Google Images for any of those things you'd need, you'll find them. Lady Ada makes the schematics for the PiTFT available on her site. The mappings I found in Google images, and tested using an oscilliscope.
 
 The joystick is milled in two parts. The section for the screen is located in the cads/body directory. The circuit is located in the body/circuits directory. The resistors are 10k pullups. The Teensy code has a mapping of the pins, which are also labeled on the schematic.
 
-The image is Lady Ada's PiTFT image, so the SD Card is 8GB. I couldn't get it booting when I used dd on a 32GB card. The games are played in Pico-8. You can place the flags in rc.local so it starts automatically. Pico 8 is available from [Lexaloffle Games](http://www.lexaloffle.com/pico-8.php). All of the games are made by the community using Lua (I guess I'm about to learn Lua!). 
+The image is Lady Ada's PiTFT image (Raspbian), so the SD Card is 8GB. I couldn't get it booting when I used dd on a 32GB card. If anyone knows why, send me message -- though I don't think that's necessary even if I had every Pico-8 game ever. The games are played in Pico-8. You can place the flags in rc.local so it starts automatically. Pico 8 is available from [Lexaloffle Games](http://www.lexaloffle.com/pico-8.php). All of the games are made by the community using Lua (I guess I'm about to learn Lua!). 
 
 That's it for now, until I have time to write an Instructable.
 
